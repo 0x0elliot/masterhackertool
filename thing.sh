@@ -4,10 +4,8 @@ echo Loading Epic Hacking Tool..
 
 while true; do
 
-for i in {1..2}
-	do
-		pactl set-sink-volume @DEFAULT_SINK@ 100%
-	done
+pactl set-sink-volume @DEFAULT_SINK@ 100%
+
 
 
 for i in {1..2}
