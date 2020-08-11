@@ -1,5 +1,5 @@
 <h1>Disclaimer: It plays the voice of a girl moaning as loud as possible. Be careful. it is a prank tool not a hacking tool. This can actually scare someone.
-Please don't use headphones. The voice get's too loud.</h1>
+PLEASE DON'T USE HEADPHONES. THE VOICE GETS THE LOUDEST IT CAN. MIGHT HURT YOUR EARS.</h1>
 <br>
 For hacking tools/Recon Tools you can check out the rest of my Github page :D
 
