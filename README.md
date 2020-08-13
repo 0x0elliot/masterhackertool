@@ -6,8 +6,7 @@ For hacking tools/Recon Tools you can check out the rest of my Github page :D
 <h1>Purpose:</h1><br>
 I made this script to prank my friend into playing a girl moaning at the max volume. If he closes the script, Loopback will also be turned on which will cause the moans to reverberate. 
 
-I will edit the file and include his reaction
-when he executes this. 
+I will edit the file and include his reaction when I can get him to execute this script.
 
 <h2>Requirements:</h2>
 <br>
